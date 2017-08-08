@@ -13,5 +13,9 @@ To use functionality, simply run the files.
 
 ## Files and functionality
 
+On Raspberry Pi:
+
+Start the pigpio server: _sudo pigpiod_
+
 1. Recording and reporting soil moisture sensor recordings on raspberry pi : SoilMoisture2/Alternate.py : 
 2. Send tweet : tweet.py
